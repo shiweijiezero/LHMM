@@ -6,7 +6,7 @@ This is a partial implementation for paper <u>LHMM: A Learning Enhanced HMM Mode
 
 1. [Requirements](#requirements)
 2. [Execution](#execution)
-3. [Map-matching Example](#Map-matching Example)
+3. [Map-matching-Example](#Map-matching Example)
 4. [Dataset](#Dataset)
 5. [License](#license)
 6. [Contact](#contact)
@@ -47,7 +47,7 @@ $ python transServer.py
 ```
 ---
 
-## 3. Map-matching Example
+## 3. Map-matching-Example
 
 We provide some figures to illustrate the matching of LHMM in director `Mapmatching-Figures`.
 
