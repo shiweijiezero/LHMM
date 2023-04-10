@@ -66,6 +66,4 @@ The code is developed under the MPL-02.0 license.
 ---
 
 ## 6. Contact
-
-This version is up to rebuttal, new changes will be updated here soon.
 If you have any questions or require further clarification, please do not hesitate to send an email to us (E-mail address：shiweijie0311@foxmail.com)
